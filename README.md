@@ -1,7 +1,7 @@
 # Usage
 Windows ONLY
 
-Download hnjf model [model](https://huggingface.co/chickenrice0721/whisper-large-v2-translate-zh-v0.2-st-ct2)
+Download hnjf（海南鸡饭S+） model [model](https://huggingface.co/chickenrice0721/whisper-large-v2-translate-zh-v0.2-st-ct2)
 
 Go to auto_subtitle.py
 change
